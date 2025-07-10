@@ -4,6 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   KNPI MAUK | Komite Nasional Pemuda Indonesia Mauk
+  <meta name="description" content="DPK KNPI Mauk - Wadah pemuda Kecamatan Mauk yang aktif dan inspiratif dalam kegiatan sosial, olahraga, dan kepemudaan.">
+  <meta name="keywords" content="KNPI, KNPI Mauk, Pemuda Mauk, Organisasi Pemuda, Kegiatan KNPI, Futsal KNPI Cup, Pemuda Tangerang">
+  <meta name="author" content="DPK KNPI Mauk">
+  <meta property="og:title" content="DPK KNPI Mauk - Website Resmi">
+  <meta property="og:description" content="Informasi kegiatan dan program resmi KNPI Kecamatan Mauk.">
+  <meta property="og:image" content="https://yourwebsite.com/images/logo-knpi.png">
+  <meta property="og:url" content="https://yourwebsite.com">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="images/logo-knpi.png" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-white text-yellow-400">
@@ -11,7 +20,7 @@
   <header class="bg-blue-800">
     <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
       <div class="flex items-center space-x-2">
-        <img src="Komite_Nasional_Pemuda_Indonesia.png" alt="Logo KNPI" class="w-10 h-10">
+        <img src="/mnt/data/Komite_Nasional_Pemuda_Indonesia.png" alt="Logo KNPI" class="w-10 h-10">
         <h1 class="text-xl font-bold">DPK KNPI MAUK</h1>
       </div>
       <nav class="space-x-4">
