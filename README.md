@@ -11,7 +11,7 @@
   <header class="bg-blue-800">
     <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
       <div class="flex items-center space-x-2">
-        <img src="images/Komite_Nasional_Pemuda_Indonesia.png" alt="Logo KNPI" class="w-10 h-10">
+        <img src="Komite_Nasional_Pemuda_Indonesia.png" alt="Logo KNPI" class="w-10 h-10">
         <h1 class="text-xl font-bold">DPK KNPI MAUK</h1>
       </div>
       <nav class="space-x-4">
